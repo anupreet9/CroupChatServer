@@ -4,8 +4,7 @@ Group Chat
 
 ## Description
 
-A group chat app which allows multiple users to chat. A user can log in and start chatting with the other online users.
-A user can log out and exit from the app whenever they wish.
+A group chats app that allows multiple users to chat. A user can log in and start chatting with other online users. Users can log out and exit the app whenever they wish.
 
 # How to Use the App
 
